@@ -19,7 +19,7 @@ On MacOS or Linux:
 MacOS/Linux:
 
     export OCI_HOME=<directory of Oracle instant client>
-    export OCI_LIB_DIR=$OCI_HOME
+    export OCI_LIB_DIR=$OCI_HOME/lib/
     export OCI_INCLUDE_DIR=$OCI_HOME/sdk/include
 
 2. Create the following symbolic links
